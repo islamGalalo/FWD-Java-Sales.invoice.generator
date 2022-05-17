@@ -1,8 +1,7 @@
 
 #  Sales Invoice Generator
 
- Something like Sales software program , it makes you to add
-, delete and modify your invoice by easy and simple way
+ Something like a Sales software program, it makes you  add, delete and modify your invoice in easy and simple way
 
 
 
@@ -12,7 +11,7 @@ Just Java ..
 
 
 
-
+# Project Provided By
 
 ![Logo](https://cdn.freebiesupply.com/logos/thumbs/2x/udacity-2-logo.png)
 
@@ -22,7 +21,7 @@ Just Java ..
 
 
 
-## Authors
+## Author
 
 - [@IslamGalal](https://www.linkedin.com/in/islam-galal-b07676222/  )
 Please DON'T copy .... Copyright © reserved
